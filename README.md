@@ -6,7 +6,7 @@ DURATION:25TH MAY 2024 to 25TH JULY 2024
 MENTOR:SRAVANI GOUNI
 
 Description:
-Task 1
+Task 1 :
 Protoflio website redesign
 Introduction: Your portfolio should introduce you as a designer. Within seconds, visitors should know who you are and what you’re all about. Consider a bold headline that describes your favorite activities or skills. Inject personality into the visual design, just like Gloria Lo’s colorful hover effect.
 
